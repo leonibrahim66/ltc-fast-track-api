@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "express": "^4.22.1",
-    "drizzle-orm": "^0.44.7"
+    "drizzle-orm": "^0.44.7",
+    "dotenv": "^16.6.1"
   }
 }
