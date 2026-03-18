@@ -1,0 +1,17 @@
+{
+  "name": "ltc-fast-track-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "drizzle-orm": "^0.44.7",
+    "dotenv": "^16.6.1",
+    "@trpc/server": "^11.0.0"
+  }
+}
